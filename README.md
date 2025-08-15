@@ -4,7 +4,7 @@
 
 🌍 **Localização:** Brasil  
 📫 **Contato:** [sergioflorenitno@gmail.com](mailto:sergioflorentino@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yuriferr](https://www.linkedin.com/in/yuriferr/)  
+💼 **LinkedIn:** [linkedin.com/in/sergioflorentino](https://www.linkedin.com/in/sergioflorentino/)  
 🧠 **Atualmente empreendendo: CEO TrazMais 
 
 ---
@@ -56,24 +56,24 @@ Se você busca alguém com visão de produto, perfil analítico e paixão por in
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yuriferr&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sergioflorentino&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuriferr&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergioflorentino&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriferr&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioflorentino&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 🌐 Redes Sociais
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/yuriferr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriferr/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sergioflorentino)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioflorentino/)
 
 ---
 
 ## 🏆 Empreendedorismo
 
-- **Seguidores no GitHub:** [![GitHub Followers](https://img.shields.io/github/followers/yuriferr?label=Follow&style=social)](https://github.com/yuriferr)
+- **Seguidores no GitHub:** [![GitHub Followers](https://img.shields.io/github/followers/sergioflorentino?label=Follow&style=social)](https://github.com/sergioflorentino)
 - **Projetos em destaque:** Confira meus repositórios e veja o que estou desenvolvendo!
 
 ---
@@ -83,14 +83,14 @@ Se você busca alguém com visão de produto, perfil analítico e paixão por in
 Se você tem ideias de colaboração, sugestões ou quer conversar sobre tecnologia ou desenvolvimento, me mande uma mensagem. Estou sempre aberto a boas conexões e desafios!
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yurifernandespreto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriferr/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioflorentino/)
 
-![Contador de Visitas](https://komarev.com/ghpvc/?username=yuriferr)
+![Contador de Visitas](https://komarev.com/ghpvc/?username=sergioflorentino)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuriferr/yuriferr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuriferr/yuriferr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuriferr/yuriferr/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergioflorentino/sergioflorentino/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergioflorentino/sergioflorentino/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sergioflorentino/sergioflorentino/output/github-contribution-grid-snake.svg">
 </picture>
 <!--
 **sergioflorentino/sergioflorentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
